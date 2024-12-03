@@ -3,7 +3,7 @@
 ### Sobre
 - 🔭 Atualmente trabalho como Assistente de TI e no tempo vago como Game/Level Designer
 - 🌱 Estou aprendendo JavaScript e CSS
-- 👯 Eu estou disponivel para particpar em projetos utilizando Python e Java
+- 👯 Eu estou disponivel para participar em projetos utilizando Python, Java , JavaScript e PHP
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Eu gosto de colecionar TCG e de ver séries/filmes
 
