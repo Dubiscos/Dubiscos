@@ -5,7 +5,7 @@
 - 🌱 Estou aprendendo JavaScript e CSS
 - 👯 Eu estou disponivel para particpar em projetos utilizando Python e Java
 - 😄 Pronouns: ele/dele
-- ⚡ Fun fact: Eu gosto muito de colecionar TCG e de ver séries/animes
+- ⚡ Fun fact: Eu gosto de colecionar TCG e de ver séries/filmes
 
 ##
 
