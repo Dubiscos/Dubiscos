@@ -1,11 +1,11 @@
 ## Olá! Eu sou o Eduardo Lopes 👋
 
 ### Sobre
-- 🔭 Atualmente trabalho como Assistente de TI e no tempo vago como Game/Level Designer
-- 🌱 Estou aprendendo JavaScript e CSS
-- 👯 Eu estou disponivel para participar em projetos utilizando Python, Java , JavaScript e PHP
+- 🔭 Atualmente trabalho como Analista de TI e no tempo vago como Game/Level Designer
+- 🌱 Estou me aprofundando em Databricks e Analytics
+- 👯 Eu estou disponivel para participar em projetos utilizando Python, Java , JavaScript, PHP e HTML
 - 😄 Pronouns: ele/dele
-- ⚡ Fun fact: Eu gosto de colecionar TCG e de ver séries/filmes
+- ⚡ Fun fact: Como hobby gosto de colecionar TCG, sair para tomar café e de ver filmes.
 
 ##
 
