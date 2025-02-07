@@ -1,11 +1,12 @@
-## Olá! Eu sou o Eduardo Lopes 👋
+## Hello! I'm Eduardo Lopes 👋
 
-### Sobre
-- 🔭 Atualmente trabalho como Analista de TI e no tempo vago como Game/Level Designer
-- 🌱 Estou me aprofundando em Databricks e Analytics
-- 👯 Eu estou disponivel para participar em projetos utilizando Python, Java , JavaScript, PHP e HTML
-- 😄 Pronouns: ele/dele
-- ⚡ Fun fact: Como hobby gosto de colecionar TCG, sair para tomar café e de ver filmes.
+### About me
+- 🔭 Nowadays I work as an IT Analyst and, in my free time, as a Game/Level Designer
+- 🎯 I'm focused on working as a Data Engineer / Analyst
+- 🌱 I'm specializing in Databricks e Analytics
+- 👯 I'm availabe to partipate in projects using Python, Java , JavaScript, PHP e HTML
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: My hobbys include collect Pokemon TCG, going out for coffee, watching movies and spending time with my girlfriend.
 
 ##
 
